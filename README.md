@@ -30,5 +30,6 @@ Tema.
 | NOMBRE | APELLIDO | EDAD |
 |-------------|-----------------|--------|
 |José luis| Acosta Vanegas | 19
+|Juliana| López | 18
 
 
