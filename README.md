@@ -15,7 +15,8 @@
 
 Tema.
 - [x] terror 
-- [x] suspenso 
+- [x] suspenso
+- [x] misterio 
 
  contenido:
  
